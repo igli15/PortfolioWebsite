@@ -1,0 +1,59 @@
+.navbarTitle
+{
+    font-size: 32px;
+    color : white;
+
+}
+
+.navbarRightElements
+{
+    margin-right: 80px;
+}
+
+.navbarLeftElements
+{
+    margin-left : 100px;
+}
+
+
+
+section
+{
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+.CenteredSection
+{
+    margin: auto;
+    width: 60%;
+}
+
+.backgroundVideo
+{
+    position: center;
+    top: 50%;
+    left:50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+}
+
+.navbarName *
+{
+    font-size: 24px
+
+}
+
+.centeredNavText
+{
+    position: absolute;
+    color :white;
+    font-size: 22px;
+    width: 100%;
+    left: 0;
+    bottom: 25px;
+    text-align: center;
+}
