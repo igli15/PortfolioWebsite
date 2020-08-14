@@ -47,6 +47,10 @@ section
 
 }
 
+.backgroundImg {
+    position: relative;
+}
+
 .centeredNavText
 {
     position: absolute;
