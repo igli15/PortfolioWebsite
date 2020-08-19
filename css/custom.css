@@ -25,9 +25,16 @@ section
 }
 
 .CenteredSection
+ {
+     margin: auto;
+     width: 70%;
+     padding-bottom: 80px;
+ }
+
+.CenteredSection-noPad
 {
     margin: auto;
-    width: 60%;
+    width: 70%;
 }
 
 .backgroundVideo
@@ -76,7 +83,9 @@ section
     overflow:visible;
     background-repeat: no-repeat;
     background-position: center top;
+    height: 100%;
 }
+
 
 p
 {
