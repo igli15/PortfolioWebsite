@@ -64,7 +64,7 @@ section
     color :white;
     font-size: 22px;
     width: 100%;
-    left: 0px;
+    right: 50px;
     bottom: -15px;
     text-align: center;
 }
