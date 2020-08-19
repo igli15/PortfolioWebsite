@@ -69,7 +69,18 @@ section
     height: auto;
 }
 
+.sectionBackground
+{
+ background-size: cover;
+    color: white;
+    height: auto;
+    overflow:visible;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 p
 {
     font-size: 18px;
 }
+
