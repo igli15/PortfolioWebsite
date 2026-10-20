@@ -102,3 +102,20 @@ p
     font-size: 20px;
 }
 
+.image-link 
+{
+  display: inline-block; /* Fits the container to the image size */
+  border-radius: 8px;
+  overflow: hidden; 
+  outline: 4px solid #00000000; 
+}
+
+.image-link:hover 
+{
+  outline-color: #0076ff;
+}
+
+.image-link img 
+{
+  display: block; 
+}
